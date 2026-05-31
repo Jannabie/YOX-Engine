@@ -97,4 +97,6 @@ Translated text only renders correctly when the game engine loads the script fre
 
 ## Proof
 
-![Translation working in-game](https://i.imgur.com/Poc2KYX.png)
+| Result |
+|:---:|
+| ![Translation working in-game](https://i.imgur.com/Poc2KYX.png) |
