@@ -95,7 +95,7 @@ Translated text only renders correctly when the game engine loads the script fre
 - Start a new game from the main menu, or
 - Load a save from **before** the changed line was first displayed
 
-## Proof
+## Proof of concept
 
 | Result |
 |:---:|
