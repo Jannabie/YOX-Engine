@@ -1,4 +1,4 @@
-# MUSICUS Translation Tools
+# YOX Engine Arch
 
 Tools for extracting and reinserting dialogue from **MUSICUS** (Overdrive, 2019). The game uses a proprietary archive format (YOX) that stores script files in compressed `.dat` archives.
 
